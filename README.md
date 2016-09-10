@@ -1,4 +1,4 @@
-# nnjk
+# jktm 
 
 Idea taken from [Open AI Requests for Research page](https://openai.com/requests-for-research/#funnybot).
 
