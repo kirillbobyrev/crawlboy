@@ -1,0 +1,20 @@
+<?xml-stylesheet type="text/css" href="usctitle.css"?>
+<uscDoc xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd" xmlns="http://xml.house.gov/schemas/uslm/1.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en" >
+<meta>
+  <dc:title>Title 50 Appendix</dc:title>
+  <dc:type>USCTitleAppendix</dc:type>
+  <docNumber>50a</docNumber>
+  <docPublicationName>Online@114-219</docPublicationName>
+  <dc:publisher>OLRC</dc:publisher>
+  <dcterms:created>2015-11-30T11:32:48</dcterms:created>
+  <dc:creator>USCConverter 1.1</dc:creator>
+</meta>
+<appendix><num value="50a">Title 50—APPENDIX</num><heading>WAR AND NATIONAL DEFENSE [ELIMINATED] Current through 114–86u1</heading>
+<note topic="miscellaneous"><p>Current through 114–86u1</p></note>
+<notes type="uscNote">
+<note topic="miscellaneous"
+ class=""><p style="-uslm-lc:I21" class="indent0">Title 50, Appendix, War and National Defense, has been eliminated. For disposition of provisions of former Title 50, Appendix, in Title 50, War and National Defense, and other titles, see Table II and editorial notes set out preceding section 1 of Title 50. Provisions that appeared under the heading “Proclamations, Executive Orders, Joint Resolutions and Treaties Respecting War, Neutrality and Peace” in material preceding section 1 of Title 50, Appendix, can be found under the same heading in material preceding section 1 of Title 50.</p>
+</note>
+</notes>
+</appendix>
+</uscDoc>
